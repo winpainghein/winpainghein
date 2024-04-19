@@ -7,7 +7,7 @@
 <br>
 
 <h1>About Me</h3>
-<p>As a budding frontend developer, I'm passionately navigating the dynamic world of web development. My journey began with a curiosity sparked by the captivating user interfaces and seamless interactions of modern websites and applications. With every line of code I write, I strive to craft digital experiences that are both aesthetically pleasing and intuitively user-friendly. Let's code together and bring visions to life, one pixel at a time.</p>
+<p align="justify">As a budding frontend developer, I'm passionately navigating the dynamic world of web development. My journey began with a curiosity sparked by the captivating user interfaces and seamless interactions of modern websites and applications. With every line of code I write, I strive to craft digital experiences that are both aesthetically pleasing and intuitively user-friendly. Let's code together and bring visions to life, one pixel at a time.</p>
 
 - 🌱 I’m currently learning **React & PHP**
 - 💬 Ask me about **HTML, CSS & Javascript**
