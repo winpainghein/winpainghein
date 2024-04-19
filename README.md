@@ -28,8 +28,7 @@
 <hr>
 <br>
 <h3>&#128640 GitHub Status</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=winpainghein00&show_icons=true&locale=en&theme=dark" alt="winpainghein00" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winpainghein00&theme=dark" alt="winpainghein00" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=winpainghein00&show_icons=true&locale=en&theme=dark" alt="winpainghein00" /></p>
 <br>
 <hr>
 <h3>&#128202; Language Usage</h3>
