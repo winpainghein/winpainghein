@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Win Paing Hein</h1>
-<h3 align="left">A passionate frontend developer from Myanmar</h3>
+<h3 align="left">A passionate Web developer from Myanmar</h3>
 <br>
 
 <hr>
@@ -7,7 +7,7 @@
 <br>
 
 <h1>About Me</h3>
-<p align="justify">As a budding frontend developer, I'm passionately navigating the dynamic world of web development. My journey began with a curiosity sparked by the captivating user interfaces and seamless interactions of modern websites and applications. With every line of code I write, I strive to craft digital experiences that are both aesthetically pleasing and intuitively user-friendly. Let's code together and bring visions to life, one pixel at a time.</p><br>
+<p align="justify">As a budding web developer, I'm passionately navigating the dynamic world of web development. My journey began with a curiosity sparked by the captivating user interfaces and seamless interactions of modern websites and applications. With every line of code I write, I strive to craft digital experiences that are both aesthetically pleasing and intuitively user-friendly. Let's code together and bring visions to life, one pixel at a time.</p><br>
 
 - 🌱 I’m currently learning **React & Laravel**
 - 💬 Ask me about **HTML, CSS & Javascript,PHP**
