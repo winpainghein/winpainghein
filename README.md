@@ -24,15 +24,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
-<p dir="auto">
-- HTML
-- CSS
-- TailwindCss
-- Javascript
-- React
-- PHP
-- Laravel
-</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>TailwindCss</li>
+  <li>React</li>
+  <li>PHP</li>
+  <li>Laravel</li>
+</ul>
+
 <hr>
 
 <h3>&#128640 GitHub Status</h3>
