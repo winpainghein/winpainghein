@@ -31,6 +31,8 @@
   <li>React</li>
   <li>PHP</li>
   <li>Laravel</li>
+  <li>Git</li>
+  <li>Github</li>
 </ul>
 
 <hr>
