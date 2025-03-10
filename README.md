@@ -21,33 +21,25 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
 <br>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>TailwindCss</li>
-  <li>React</li>
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>Git</li>
-  <li>Github</li>
-</ul>
 
-<hr>
+# 💻 Tech Stack:
 
-<h3>&#128640 GitHub Status</h3>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=winpainghein00&show_icons=true&locale=en&theme=dark" alt="winpainghein00" /></p>
 
-<hr>
-<h3>&#128202; Language Usage</h3>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <br>
-<p><img align="center"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=winpainghein00&show_icons=true&locale=en&layout=compact&theme=dark" alt="winpainghein00" /></p>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/winpainghein00/winpainghein00/output/snake.svg" alt="Snake animation" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=winpainghein00&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=winpainghein00&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=winpainghein00&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 
 
