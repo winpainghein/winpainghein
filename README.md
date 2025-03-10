@@ -45,6 +45,12 @@
 <br>
 <p><img align="center"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=winpainghein00&show_icons=true&locale=en&layout=compact&theme=dark" alt="winpainghein00" /></p>
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/winpainghein00/winpainghein00/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 
 
